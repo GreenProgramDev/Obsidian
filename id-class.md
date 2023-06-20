@@ -1,7 +1,8 @@
 ---
 title: origamid
 tags:
-- css
+- html
+- tags
 
 author:
 - sindey

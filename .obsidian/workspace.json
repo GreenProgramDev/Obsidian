@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "id-class.md",
+                "file": "React.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3e16852fcada7fb",
+            "id": "554f7a2163c85853",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "79d727f461ab4b4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -60,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#css",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "id-class.md",
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "id-class.md",
+                "file": "React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "id-class.md"
+                "file": "React.md"
               }
             }
           }
@@ -161,11 +169,21 @@
   },
   "active": "8ba3c95c2ad00fbf",
   "lastOpenFiles": [
+    "Componente.md",
+    "React.md",
+    "Pasted image 20230620031329.png",
+    "Evento.md",
+    "Pasted image 20230620030247.png",
+    "JSX.md",
+    "Pasted image 20230620022830.png",
+    "Pasted image 20230620022229.png",
+    "createElement.md",
     "id-class.md",
+    "Styled-Components.md",
+    "CSS.md",
+    "Styled-Component.md",
     "Origamid/Iniciante.md",
     "Origamid",
-    "id-class.md",
-    "JS.md",
-    "CSS.md"
+    "JS.md"
   ]
 }
