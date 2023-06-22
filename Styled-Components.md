@@ -12,14 +12,6 @@ author:
 	 Ao focar em um único caso de uso, conseguimos otimizar a experiência para os desenvolvedores, bem como a saída para os usuários finais.
 
 
-
-
-
-	
-	
-	
-	
-
 ##### O que faz/se comporta >> 
 Utiliza literais de modelo marcadas para estilizar seus componentes.
 Ele remove o mapeamento entre componentes e estilos. Isso significa que quando você está definindo seus estilos, na verdade está criando um [[componente]] React normal, que tem seus estilos anexados a ele:
@@ -75,22 +67,23 @@ render(
 ##### [[yarn]] <> [[npm]]
 A instalação de styled-components requer apenas um único comando e você está pronto para começar:
 
-	 with npm
-	$ npm install styled-components
+```sh
+with npm
+$ npm install styled-components
 
-	 with yarn
-	$ yarn add styled-components
-
+ with yarn
+$ yarn add styled-components
+```
 
 ##### Se usar **yarn** [[package.jason]] 
 - Se você usar um gerenciador de pacotes como **yarn** que suporta o campo [[package.jason]] "resoluções", também recomendamos que você adicione uma entrada correspondente ao intervalo de versão principal. Isso ajuda a evitar toda uma classe de problemas que surgem de várias versões de componentes estilizados sendo instalados em seu projeto.
-
-		{
-			"resoluções" : {
-				"componentes de estilo" : "^5"
-			 }
-		 }
-
+```json
+{
+	"resoluções" : {
+		"componentes de estilo" : "^5"
+	 }
+ }
+```
 
 ##### OBSERVAÇÃO 
 É altamente recomendado (mas não obrigatório) usar também o [[plug-in-Babel]]. Ele oferece muitos benefícios, como nomes de classe mais legíveis, compatibilidade de renederização do lado do servidos, pacotes menores e muito mais.
