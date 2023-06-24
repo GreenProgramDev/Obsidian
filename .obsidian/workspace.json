@@ -23,8 +23,12 @@
             "id": "79d727f461ab4b4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaScript.md"
+              }
             }
           }
         ]
@@ -154,6 +162,17 @@
   },
   "active": "79d727f461ab4b4e",
   "lastOpenFiles": [
+    "Pasted image 20230624025840.png",
+    "Pasted image 20230624025608.png",
+    "Pasted image 20230624024744.png",
+    "Pasted image 20230624024524.png",
+    "Pasted image 20230624024420.png",
+    "Pasted image 20230624024339.png",
+    "Pasted image 20230624023226.png",
+    "Pasted image 20230624022645.png",
+    "Pasted image 20230624022610.png",
+    "Pasted image 20230624015504.png",
+    "Pasted image 20230624013041.png",
     "JavaScript.md",
     "id-class.md",
     "Styled-Components.md",
@@ -162,10 +181,6 @@
     "JSX.md",
     "Componente.md",
     "Evento.md",
-    "Pasted image 20230620031329.png",
-    "Pasted image 20230620030247.png",
-    "Pasted image 20230620022830.png",
-    "Pasted image 20230620022229.png",
     "CSS.md",
     "Styled-Component.md",
     "Origamid/Iniciante.md",
