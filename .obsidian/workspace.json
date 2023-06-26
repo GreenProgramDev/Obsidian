@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
+                "file": "React.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "React.md"
               }
             }
           }
@@ -162,25 +162,28 @@
   },
   "active": "79d727f461ab4b4e",
   "lastOpenFiles": [
+    "XML.md",
+    "JavaScript.md",
+    "Pasted image 20230624041107.png",
+    "Pasted image 20230624040625.png",
+    "Pasted image 20230624035306.png",
+    "React.md",
+    "Componente.md",
+    "Evento.md",
+    "JSX.md",
+    "Styled-Components.md",
+    "package.jason.md",
+    "npm.md",
+    "yarn.md",
+    "Pasted image 20230624032444.png",
+    "Pasted image 20230624031620.png",
     "Pasted image 20230624025840.png",
     "Pasted image 20230624025608.png",
     "Pasted image 20230624024744.png",
     "Pasted image 20230624024524.png",
     "Pasted image 20230624024420.png",
-    "Pasted image 20230624024339.png",
-    "Pasted image 20230624023226.png",
-    "Pasted image 20230624022645.png",
-    "Pasted image 20230624022610.png",
-    "Pasted image 20230624015504.png",
-    "Pasted image 20230624013041.png",
-    "JavaScript.md",
     "id-class.md",
-    "Styled-Components.md",
-    "React.md",
     "createElement.md",
-    "JSX.md",
-    "Componente.md",
-    "Evento.md",
     "CSS.md",
     "Styled-Component.md",
     "Origamid/Iniciante.md",
