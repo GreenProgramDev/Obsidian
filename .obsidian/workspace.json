@@ -11,21 +11,29 @@
             "id": "8ba3c95c2ad00fbf",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d3bd6c9d7671057",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Padrões.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79d727f461ab4b4e",
+            "id": "cc0c78b44f6cf0f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React.md",
+                "file": "Padrões.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "Padrões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React.md",
+                "file": "Padrões.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "Padrões.md"
               }
             }
           }
@@ -160,28 +168,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79d727f461ab4b4e",
+  "active": "7d3bd6c9d7671057",
   "lastOpenFiles": [
-    "XML.md",
+    "Padrões.md",
+    "Color pattern.md",
     "JavaScript.md",
-    "Pasted image 20230624041107.png",
-    "Pasted image 20230624040625.png",
-    "Pasted image 20230624035306.png",
-    "React.md",
-    "Componente.md",
-    "Evento.md",
-    "JSX.md",
     "Styled-Components.md",
+    "plug-in-Babel.md",
+    "Evento.md",
+    "Untitled.canvas",
+    "React.md",
+    "LinuxTips.md",
+    "Pasted image 20230628210004.png",
+    "Pasted image 20230628205641.png",
+    "Pasted image 20230628202431.png",
+    "Pasted image 20230628202045.png",
+    "Pasted image 20230628201154.png",
+    "Pasted image 20230628200918.png",
+    "Pasted image 20230628200736.png",
+    "Pasted image 20230628200053.png",
+    "Pasted image 20230628200014.png",
+    "Pasted image 20230628195713.png",
+    "Componente.md",
+    "XML.md",
+    "JSX.md",
     "package.jason.md",
     "npm.md",
     "yarn.md",
-    "Pasted image 20230624032444.png",
-    "Pasted image 20230624031620.png",
-    "Pasted image 20230624025840.png",
-    "Pasted image 20230624025608.png",
-    "Pasted image 20230624024744.png",
-    "Pasted image 20230624024524.png",
-    "Pasted image 20230624024420.png",
     "id-class.md",
     "createElement.md",
     "CSS.md",

@@ -76,7 +76,7 @@ $ yarn add styled-components
 ```
 
 ##### Se usar **yarn** [[package.jason]] 
-- Se você usar um gerenciador de pacotes como **yarn** que suporta o campo [[package.jason]] "resoluções", também recomendamos que você adicione uma entrada correspondente ao intervalo de versão principal. Isso ajuda a evitar toda uma classe de problemas que surgem de várias versões de componentes estilizados sendo instalados em seu projeto.
+- Se você usar um gerenciador de pacotes como **yarn** que suporta o campo #package-jason "resoluções", também recomendamos que você adicione uma entrada correspondente ao intervalo de versão principal. Isso ajuda a evitar toda uma classe de problemas que surgem de várias versões de componentes estilizados sendo instalados em seu projeto.
 ```json
 {
 	"resoluções" : {

@@ -85,5 +85,31 @@ Tags:
 
 ### #Funções
 ![[Pasted image 20230624040625.png]]
+Obs.: qualquer nome que tiver um ( ) ao lado e uma funcao
+ex.: contador( ), data( ), newData( )
+
 ![[Pasted image 20230624041107.png]]
 
+#### Parametros e Argumentos 
+![[Pasted image 20230626192626.png]]
+
+#### Evento
+##### o que é e o que faz
+ No contexto do React, os eventos em JavaScript são usados para lidar com a interação do usuário, como cliques, digitação de teclado, passagem do mouse e muito mais. O React possui seu próprio sistema de eventos, que funciona de maneira semelhante ao JavaScript tradicional, mas com algumas diferenças importantes.
+
+ No React, os eventos são anexados aos elementos JSX usando uma sintaxe semelhante ao HTML, usando atributos especiais começando com "on". Por exemplo, para lidar com o evento de clique em um botão, você pode usar o atributo `onClick`. 
+ Veja um exemplo:
+ ```jsx
+	 import React from 'react';
+	 
+	  function MeuBotao() { 
+		  const handleClick = () => {
+			console.log('Clicou no botão');
+		}; 
+		return ( 
+			<button onClick={handleClick}>
+				Clique aqui 
+			</button> 
+		); 
+	}
+```
