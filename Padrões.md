@@ -1,4 +1,20 @@
 ## [[CSS]]
+### #Conventional-Commit
+
+1. Use verbos no tempo presente: A descrição deve começar com um verbo no tempo presente, indicando a ação que está sendo realizada. Por exemplo: "Adiciona", "Corrige", "Atualiza", "Remove".
+   
+2. Seja claro e específico: Descreva brevemente o objetivo da alteração de uma maneira que seja compreensível para outros colaboradores do projeto. Evite termos ambíguos ou genéricos. Seja o mais específico possível para que os outros entendam claramente o propósito da alteração.
+
+3. Se necessário, inclua o escopo: Se a alteração estiver relacionada a um componente específico do projeto, você pode adicionar o escopo entre parênteses. Por exemplo: "(Barra de navegação)", "(API de autenticação)".
+   
+4. Evite referências a problemas específicos: É uma boa prática referenciar problemas ou tarefas relacionadas usando uma seção de rodapé ou tags específicas fornecidas pelo sistema de controle de versão ou ferramenta de gerenciamento de problemas. Evite incluir números de problema ou referências no início da descrição do commit.
+
+- `feat: Adiciona suporte para autenticação JWT`
+- `fix: Corrige erro de digitação no título da página`
+- `docs: Atualiza documentação do componente Button`
+- `chore: Remove dependência obsoleta`
+
+ Conventional Commit
 ### #Root - var( --color-)
 ``` css
 :root {
@@ -90,3 +106,97 @@ font-size: 20px;
 }
 ```
 
+
+### #README-md 
+```md
+# Title
+
+<p align="center">
+  <img src="path img or video" alt="name of the Header that represents the img">
+</p>
+
+"Description from project"
+
+---
+## Features "done in project"
+
+- Functional Components in React
+- Project Organization using React and TypeScript
+- Responsive and Modern Design using CSS3
+- Flexbox and Layout Fundamentals
+- Usage of CSS Variables for Theme Creation
+- Custom Hooks Creation
+- Commits using Conventional Commits
+- Typing using TypeScript
+- Creation of Utilities
+
+## Live Version
+
+You can play the game by visiting the live version hosted at 
+[here put a text that will become clickable](https://here put the URL of the Deploy done/).
+
+## Video Tutorial
+
+You can follow the step-by-step instructions on how to create this project by watching the [here put a text that will become clickable](https://here put the URL of the Deploy done/) (language that the video was made).
+
+## Installation
+
+To use this project, you need to follow these steps:
+
+1. Clone the repository: `git clone https://here put the URL of the repositorie`
+2. Install the dependencies: `npm install` or `yarn`
+3. Run the application: `npm run dev` or `yarn`
+
+Note: This project uses "Vite" to run locally. Make sure to run the project using `npm run dev` instead of `npm start`.
+
+## Used Tools
+
+This project uses the following tools:
+
+- [React](https://reactjs.org/) and [ReactDOM](https://reactjs.org/docs/react-dom.html) for building the UI
+- [TypeScript](https://www.typescriptlang.org/) for typing and safer development
+- [Vite](https://vitejs.dev/) for fast development and production builds
+- [@octokit/core](https://www.npmjs.com/package/@octokit/core) and [axios](https://axios-http.com/) for communication with the GitHub API
+- [react-icons](https://react-icons.github.io/react-icons/) for UI icons
+
+## Theme
+
+This project uses CSS variables to set up the theme. Here are the variables used and their descriptions:
+
+- `--color-primary`: Primary color used for headings and buttons
+- `--color-secondary`: Secondary color used for background and borders
+- `--color-highlight`: Highlight color used for interactive elements
+- `--color-danger`: Color used to indicate errors or warnings
+- `--color-light`: Light color used for text and background
+- `--color-shade`: Darker shade used for text and background
+- `--color-darkish`: Darkish color used for text and background
+- `--color-dark`: Dark color used for text and background
+- `--color-darkest`: Darkest color used for text and background
+
+To customize the theme, simply modify the values of the variables in the `src/app.css` file.
+
+## Usage
+
+After the application is running, the game will start automatically. The user must choose between the two repositories presented on the screen, and the game will display the result. The user can play again by clicking the "Play Again" button.
+
+## Contributing
+
+To contribute to this project, please follow these guidelines:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit them using Conventional Commits
+4. Push to the branch: `git push origin feature/your-feature-name`
+5. Submit a pull request
+
+---
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Credits
+
+This project was created by [arthur404dev](https://github.com/arthur404dev).
+And custom by [Sidney Lima](https://github.com/GreenProgramDev).
+
+``` Readm.md
