@@ -1,6 +1,29 @@
 ## [[CSS]]
 ### #Conventional-Commit
 
+- **`feat` (nova funcionalidade),**
+- **`fix` (correção de bug),**
+- **`docs` (documentação),**
+- **`chore` (tarefas de manutenção),**
+- **`style` (formatação de código)**
+- `build: adiciona uma configuração nova`
+
+
+1. Verifique o status dos arquivos modificados e não rastreados no seu repositório Git usando o comando `git status`. Você deve ver uma lista dos arquivos modificados e não rastreados.
+    
+2. Adicione os arquivos modificados para prepará-los para o commit usando o comando `git add <arquivo>` ou `git add .` para adicionar todos os arquivos modificados e não rastreados de uma vez. Por exemplo, você pode usar `git add package-lock.json package.json src/App.jsx src/index.css tailwind.config.js src/assets/image\ 7.png src/components/` para adicionar todos os arquivos listados no seu caso.
+    
+3. Verifique novamente o status usando o comando `git status` para garantir que todos os arquivos modificados estejam prontos para o commit e apareçam em verde.
+    
+4. Realize o commit com a mensagem usando o padrão convencional. O padrão convencional geralmente segue a estrutura `<tipo>(<escopo>): <mensagem>`, onde `<tipo>` pode ser **`feat` (nova funcionalidade),** **`fix` (correção de bug),** **`chore` (tarefas de manutenção),** **`docs` (documentação),** **`style` (formatação de código)** e assim por diante. Por exemplo, você pode usar `git commit -m "feat: Adicionar novos componentes e atualizar arquivos"` para realizar um commit com uma nova funcionalidade.
+    
+
+Após realizar o commit, você pode fazer o push das suas alterações para o repositório remoto usando o comando `git push`.
+
+Lembre-se de ajustar a mensagem do commit de acordo com as alterações que você realizou no código.
+
+
+
 1. Use verbos no tempo presente: A descrição deve começar com um verbo no tempo presente, indicando a ação que está sendo realizada. Por exemplo: "Adiciona", "Corrige", "Atualiza", "Remove".
    
 2. Seja claro e específico: Descreva brevemente o objetivo da alteração de uma maneira que seja compreensível para outros colaboradores do projeto. Evite termos ambíguos ou genéricos. Seja o mais específico possível para que os outros entendam claramente o propósito da alteração.
@@ -9,10 +32,7 @@
    
 4. Evite referências a problemas específicos: É uma boa prática referenciar problemas ou tarefas relacionadas usando uma seção de rodapé ou tags específicas fornecidas pelo sistema de controle de versão ou ferramenta de gerenciamento de problemas. Evite incluir números de problema ou referências no início da descrição do commit.
 
-- `feat: Adiciona suporte para autenticação JWT`
-- `fix: Corrige erro de digitação no título da página`
-- `docs: Atualiza documentação do componente Button`
-- `chore: Remove dependência obsoleta`
+
 
  Conventional Commit
 ### #Root - var( --color-)

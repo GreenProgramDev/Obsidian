@@ -71,3 +71,4 @@ Sempre começar o nome de um componente com letra MAIUSCULA
 ex.: Button, MainNav, App
 
 permite dividir a interface em pequenos elementos. São criados através de funções que retornam elementos React
+
