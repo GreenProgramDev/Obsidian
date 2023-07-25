@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Padrões.md",
+                "file": "createElement.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Padrões.md",
+                "file": "createElement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Padrões.md",
+                "file": "createElement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Padrões.md"
+                "file": "createElement.md"
               }
             }
           }
@@ -149,13 +149,28 @@
   },
   "active": "8ba3c95c2ad00fbf",
   "lastOpenFiles": [
+    "Padrões.md",
+    "Csharp.md",
+    "Csharp.md",
+    "BackEnd.md",
+    "Arquetetura de Softwar.md",
+    "Untitled 3.canvas",
+    "Pasted image 20230714065243.png",
+    "Pasted image 20230714055849.png",
+    "Pasted image 20230714055614.png",
+    "Pasted image 20230714053818.png",
+    "Pasted image 20230714053759.png",
+    "Pasted image 20230714053742.png",
+    "Pasted image 20230714053402.png",
+    "Pasted image 20230714053330.png",
+    "Pasted image 20230714052752.png",
+    "Pasted image 20230714052633.png",
     "React.md",
     "texto.md",
     "teste.md",
     "Untitled 2.canvas",
     "2023-07-07.md",
     "Untitled 1.canvas",
-    "Padrões.md",
     "Color pattern.md",
     "JavaScript.md",
     "Styled-Components.md",
@@ -163,16 +178,6 @@
     "Evento.md",
     "Untitled.canvas",
     "LinuxTips.md",
-    "Pasted image 20230628210004.png",
-    "Pasted image 20230628205641.png",
-    "Pasted image 20230628202431.png",
-    "Pasted image 20230628202045.png",
-    "Pasted image 20230628201154.png",
-    "Pasted image 20230628200918.png",
-    "Pasted image 20230628200736.png",
-    "Pasted image 20230628200053.png",
-    "Pasted image 20230628200014.png",
-    "Pasted image 20230628195713.png",
     "Componente.md",
     "XML.md",
     "JSX.md",
@@ -183,8 +188,6 @@
     "createElement.md",
     "CSS.md",
     "Styled-Component.md",
-    "Origamid/Iniciante.md",
-    "Origamid",
-    "JS.md"
+    "Origamid"
   ]
 }
